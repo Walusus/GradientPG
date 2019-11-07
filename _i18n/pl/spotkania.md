@@ -32,7 +32,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     </tr>
 	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Reinforcement Learning Introduction</td>
+        <td>School on Reinforcement Learning Intro</td>
         <td>Piotr Januszewski</td>
     </tr>
 
@@ -80,12 +80,12 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 6 -->
     <tr>
         <td rowspan="2">05.12.2019</td>
-        <td>AI at CERN OpenLab - praca w Europejskiej Organizacji Badań Nuklearnych</td>
+        <td>AI at CERN OpenLab - badania w Europejskiej Organizacji Badań Nuklearnych</td>
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Neuromorphic Computing (Spiking Neural Networks) in High Energy Physics</td>
+        <td>Neuromorphic Computing in High Energy Physics (Spiking Neural Networks)</td>
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
 

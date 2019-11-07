@@ -38,7 +38,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     </tr>
 	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Reinforcement Learning Introduction</td>
+        <td>School on Reinforcement Learning Intro</td>
         <td>Piotr Januszewski</td>
     </tr>
 
@@ -86,12 +86,12 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 6 -->
     <tr>
         <td rowspan="2">05.12.2019</td>
-        <td>AI at CERN OpenLab - work at the European Organization for Nuclear Research</td>
+        <td>AI at CERN OpenLab - research at the European Organization for Nuclear Research</td>
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Neuromorphic Computing (Spiking Neural Networks) in High Energy Physics</td>
+        <td>Neuromorphic Computing in High Energy Physics (Spiking Neural Networks)</td>
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
 
