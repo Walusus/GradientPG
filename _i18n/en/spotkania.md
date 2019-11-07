@@ -14,9 +14,8 @@ This year meetings will be focused on empowering our skills by sharing progress 
 <table>
     <tr>
         <th style="width:15%;">Date</th>
-        <th style="width:48%;">Subject</th>
-        <th style="width:23%;">Author</th>
-        <th style="width:14%;">More</th>
+        <th style="width:55%;">Subject</th>
+        <th style="width:30%;">Author</th>
     </tr>
 
     <!-- Spotkanie nr 1 -->
@@ -24,7 +23,6 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td>30.10.2019</td>
         <td>Introduction meeting 2019/20</td>
         <td>Zarząd Koła</td>
-        <td>-</td>
     </tr>
 
     <!-- Spotkanie nr 2 -->
@@ -32,19 +30,16 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td rowspan="3">07.11.2019</td>
         <td>Machine Learning and Supervised Learning</td>
         <td>Marcin Świniarski</td>
-        <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on Moneyball</td>
         <td>Marcin Świniarski</td>
-        <td>-</td>
     </tr>
 	<tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Reinforcement Learning Introduction</td>
         <td>Piotr Januszewski</td>
-		<td>-</td>
     </tr>
 
 
@@ -53,13 +48,11 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td rowspan="2">14.11.2019</td>
         <td>Deep Neural Networks in details</td>
         <td>Marcin Świniarski</td>
-        <td>-</td>
     </tr>
 	<tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on Banking Datasets</td>
         <td>Marcin Świniarski</td>
-		<td>-</td>
     </tr>
 
 
@@ -69,13 +62,11 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td rowspan="2">21.11.2019</td>
         <td>Convolutional Neural Networks</td>
         <td>Hubert Skrzypczak</td>
-        <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
         <td>Hubert Skrzypczak</td>
-        <td>-</td>
     </tr>
 
 
@@ -84,13 +75,11 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td rowspan="2">28.11.2019</td>
         <td>Deep dive into Deep Learning</td>
         <td>mgr inż. Jan Cychnerski</td>
-        <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
         <td>mgr inż. Jan Cychnerski</td>
-        <td>-</td>
     </tr>
 
 
@@ -99,13 +88,11 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td rowspan="2">05.12.2019</td>
         <td>AI at CERN OpenLab - work at the European Organization for Nuclear Research</td>
         <td>Bartłomiej Borzyszkowski</td>
-        <td>-</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Neuromorphic Computing (Spiking Neural Networks) in High Energy Physics</td>
         <td>Bartłomiej Borzyszkowski</td>
-        <td>-</td>
     </tr>
 
 </table>
