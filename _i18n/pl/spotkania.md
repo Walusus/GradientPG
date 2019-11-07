@@ -68,12 +68,12 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <tr>
         <td rowspan="2">28.11.2019</td>
         <td>#4: Deep dive into Deep Learning</td>
-        <td>mgr inż. Jan Cychnerski</td>
+        <td>Jan Cychnerski</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
-        <td>mgr inż. Jan Cychnerski</td>
+        <td>Jan Cychnerski</td>
     </tr>
 
 
