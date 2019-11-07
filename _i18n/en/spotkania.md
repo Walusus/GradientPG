@@ -22,7 +22,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <tr>
         <td>30.10.2019</td>
         <td>Introduction meeting 2019/20</td>
-        <td>Zarząd Koła</td>
+        <td>Gradient Board</td>
     </tr>
 
     <!-- Spotkanie nr 2 -->
@@ -86,7 +86,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 6 -->
     <tr>
         <td rowspan="2">05.12.2019</td>
-        <td>AI at CERN OpenLab - research at the European Organization for Nuclear Research</td>
+        <td>AI at CERN OpenLab - experiments at the European Organization for Nuclear Research</td>
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
     <tr>
