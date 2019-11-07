@@ -23,7 +23,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 2 -->
     <tr>
-        <td rowspan="2">07.11.2019</td>
+        <td rowspan="3">07.11.2019</td>
         <td>Machine Learning and Supervised Learning</td>
         <td>Marcin Świniarski</td>
         <td>-</td>

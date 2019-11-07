@@ -29,7 +29,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
     <!-- Spotkanie nr 2 -->
     <tr>
-        <td rowspan="2">07.11.2019</td>
+        <td rowspan="3">07.11.2019</td>
         <td>Machine Learning and Supervised Learning</td>
         <td>Marcin Świniarski</td>
         <td>-</td>
