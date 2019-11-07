@@ -33,7 +33,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 	<tr>
         <!-- Data jest połączona przez colspan! -->
         <td>School on Reinforcement Learning Intro</td>
-        <td>Piotr Januszewski</td>
+        <td>mgr inż. Piotr Januszewski</td>
     </tr>
 
 
@@ -68,12 +68,12 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <tr>
         <td rowspan="2">28.11.2019</td>
         <td>#4: Deep dive into Deep Learning</td>
-        <td>Jan Cychnerski</td>
+        <td>mgr inż. Jan Cychnerski</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
-        <td>Jan Cychnerski</td>
+        <td>mgr inż. Jan Cychnerski</td>
     </tr>
 
 

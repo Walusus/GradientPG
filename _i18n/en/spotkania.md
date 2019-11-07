@@ -39,7 +39,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
 	<tr>
         <!-- Data jest połączona przez colspan! -->
         <td>School on Reinforcement Learning Intro</td>
-        <td>Piotr Januszewski</td>
+        <td>mgr inż. Piotr Januszewski</td>
     </tr>
 
 
@@ -74,12 +74,12 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <tr>
         <td rowspan="2">28.11.2019</td>
         <td>#4: Deep dive into Deep Learning</td>
-        <td>Jan Cychnerski</td>
+        <td>mgr inż. Jan Cychnerski</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
-        <td>Jan Cychnerski</td>
+        <td>mgr inż. Jan Cychnerski</td>
     </tr>
 
 
