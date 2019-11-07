@@ -22,7 +22,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 2 -->
     <tr>
         <td rowspan="3">07.11.2019</td>
-        <td>Machine Learning and Supervised Learning</td>
+        <td>#1: Machine Learning and Supervised Learning</td>
         <td>Marcin Świniarski</td>
     </tr>
     <tr>
@@ -40,7 +40,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 3 -->
     <tr>
         <td rowspan="2">14.11.2019</td>
-        <td>Deep Neural Networks in details</td>
+        <td>#2: Deep Neural Networks in details</td>
         <td>Marcin Świniarski</td>
     </tr>
 	<tr>
@@ -54,7 +54,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 4 -->
     <tr>
         <td rowspan="2">21.11.2019</td>
-        <td>Convolutional Neural Networks</td>
+        <td>#3: Convolutional Neural Networks</td>
         <td>Hubert Skrzypczak</td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 5 -->
     <tr>
         <td rowspan="2">28.11.2019</td>
-        <td>Deep dive into Deep Learning</td>
+        <td>#4: Deep dive into Deep Learning</td>
         <td>mgr inż. Jan Cychnerski</td>
     </tr>
     <tr>
