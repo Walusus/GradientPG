@@ -86,7 +86,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 6 -->
     <tr>
         <td rowspan="2">05.12.2019</td>
-        <td>AI at CERN OpenLab - experiments at the European Organization for Nuclear Research</td>
+        <td>AI at CERN Openlab - experiments at the European Organization for Nuclear Research</td>
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
     <tr>
