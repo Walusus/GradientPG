@@ -80,7 +80,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 6 -->
     <tr>
         <td rowspan="2">05.12.2019</td>
-        <td>AI at CERN OpenLab - badania w Europejskiej Organizacji Badań Nuklearnych</td>
+        <td>AI at CERN Openlab - projekt w Europejskiej Organizacji Badań Nuklearnych</td>
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
     <tr>
