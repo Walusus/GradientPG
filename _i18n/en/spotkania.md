@@ -94,6 +94,30 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td>Neuromorphic Computing in High Energy Physics (Spiking Neural Networks)</td>
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
+	
+	<!-- Spotkanie nr 7 -->
+    <tr>
+        <td rowspan="2">12.12.2019</td>
+        <td>Explainable AI (XAI): research project in Seoul</td>
+        <td>mgr inż. Agnieszka Mikołajczyk</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>TBA</td>
+        <td>TBA</td>
+    </tr>
+	
+	<!-- Spotkanie nr 8 -->
+    <tr>
+        <td rowspan="2">09.01.2020</td>
+        <td>TBA</td>
+        <td>TBA</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>TBA</td>
+        <td>TBA</td>
+    </tr>
 
 </table>
 
