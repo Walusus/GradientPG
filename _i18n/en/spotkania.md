@@ -72,7 +72,15 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
     <!-- Spotkanie nr 5 -->
     <tr>
-        <td rowspan="2">28.11.2019</td>
+        <td rowspan="1">28.11.2019</td>
+        <td>Open meeting with special guests invited by AI Bay</td>
+        <td>AI Bay</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 6 -->
+    <tr>
+        <td rowspan="2">05.12.2019</td>
         <td>#4: Deep dive into Deep Learning</td>
         <td>mgr inż. Jan Cychnerski</td>
     </tr>
@@ -81,43 +89,51 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td>Hands-on</td>
         <td>mgr inż. Jan Cychnerski</td>
     </tr>
-
-
-    <!-- Spotkanie nr 6 -->
-    <tr>
-        <td rowspan="2">05.12.2019</td>
-        <td>AI at CERN Openlab - experiments at the European Organization for Nuclear Research</td>
-        <td>Bartłomiej Borzyszkowski</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Neuromorphic Computing in High Energy Physics (Spiking Neural Networks)</td>
-        <td>Bartłomiej Borzyszkowski</td>
-    </tr>
 	
 	<!-- Spotkanie nr 7 -->
     <tr>
-        <td rowspan="2">12.12.2019</td>
+        <td rowspan="2">11.12.2019</td>
         <td>Explainable AI (XAI): research project in Seoul</td>
         <td>mgr inż. Agnieszka Mikołajczyk</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>TBA</td>
-        <td>TBA</td>
+        <td>AI at CERN Openlab: Neuromorphic Computing in High Energy Physics</td>
+        <td>Bartłomiej Borzyszkowski</td>
     </tr>
 	
 	<!-- Spotkanie nr 8 -->
     <tr>
-        <td rowspan="2">09.01.2020</td>
-        <td>TBA</td>
-        <td>TBA</td>
+        <td rowspan="3">09.01.2020</td>
+        <td>Amazon: Pronunciation assessment & GANs for TTS</td>
+        <td>mgr inż. Daniel Korzekwa</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
+        <td>Amazon: Neural Text to Speech</td>
+        <td>mgr inż. Grzegorz Beringer</td>
+    </tr>
+	    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Introduction to AI Games</td>
+        <td>Gradient Board</td>
+    </tr>
+	
+	<!-- Spotkanie nr 9 -->
+    <tr>
+        <td rowspan="1">18/19.01.2020</td>
+        <td>AI Games Hackathon</td>
+        <td>AI Games Team</td>
+    </tr>
+	
+		<!-- Spotkanie nr 10 -->
+    <tr>
+        <td rowspan="1">23.01.2020</td>
         <td>TBA</td>
         <td>TBA</td>
     </tr>
+
+
 
 </table>
 

@@ -66,7 +66,15 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
     <!-- Spotkanie nr 5 -->
     <tr>
-        <td rowspan="2">28.11.2019</td>
+        <td rowspan="1">28.11.2019</td>
+        <td>Spotkanie z prelegentami Zatoki Sztucznej Inteligencji</td>
+        <td>AI Bay</td>
+    </tr>
+
+
+    <!-- Spotkanie nr 6 -->
+    <tr>
+        <td rowspan="2">05.12.2019</td>
         <td>#4: Deep dive into Deep Learning</td>
         <td>mgr inż. Jan Cychnerski</td>
     </tr>
@@ -75,40 +83,46 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
         <td>Hands-on</td>
         <td>mgr inż. Jan Cychnerski</td>
     </tr>
-
-
-    <!-- Spotkanie nr 6 -->
-    <tr>
-        <td rowspan="2">05.12.2019</td>
-        <td>AI at CERN Openlab - projekt w Europejskiej Organizacji Badań Nuklearnych</td>
-        <td>Bartłomiej Borzyszkowski</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Neuromorphic Computing in High Energy Physics (Spiking Neural Networks)</td>
-        <td>Bartłomiej Borzyszkowski</td>
-    </tr>
 	
 	<!-- Spotkanie nr 7 -->
     <tr>
-        <td rowspan="2">12.12.2019</td>
+        <td rowspan="2">11.12.2019</td>
         <td>Explainable AI (XAI): projekt badawczy w Seulu</td>
         <td>mgr inż. Agnieszka Mikołajczyk</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>TBA</td>
-        <td>TBA</td>
+        <td>AI at CERN Openlab: Neuromorphic Computing in High Energy Physics</td>
+        <td>Bartłomiej Borzyszkowski</td>
     </tr>
 	
 	<!-- Spotkanie nr 8 -->
     <tr>
-        <td rowspan="2">09.01.2020</td>
-        <td>TBA</td>
-        <td>TBA</td>
+        <td rowspan="3">09.01.2020</td>
+        <td>Amazon: Pronunciation assessment & GANs for TTS</td>
+        <td>mgr inż. Daniel Korzekwa</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
+        <td>Amazon: Neural Text to Speech</td>
+        <td>mgr inż. Grzegorz Beringer</td>
+    </tr>
+	    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Wprowadzenie do AI Games</td>
+        <td>Zarząd Koła</td>
+    </tr>
+	
+	<!-- Spotkanie nr 9 -->
+    <tr>
+        <td rowspan="1">18/19.01.2020</td>
+        <td>AI Games Hackathon</td>
+        <td>Zespół AI Games</td>
+    </tr>
+
+	<!-- Spotkanie nr 10 -->
+    <tr>
+        <td rowspan="1">23.01.2020</td>
         <td>TBA</td>
         <td>TBA</td>
     </tr>
