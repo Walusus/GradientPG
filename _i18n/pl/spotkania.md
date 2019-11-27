@@ -7,9 +7,9 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
 <table>
     <tr>
-        <th style="width:22%;">Data</th>
+        <th style="width:20%;">Data</th>
         <th style="width:55%;">Temat</th>
-        <th style="width:28%;">Autor</th>
+        <th style="width:30%;">Autor</th>
     </tr>
 
     <!-- Spotkanie nr 1 -->
