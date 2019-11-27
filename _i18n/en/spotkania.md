@@ -39,7 +39,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
 	<tr>
         <!-- Data jest połączona przez colspan! -->
         <td>School on Reinforcement Learning Intro</td>
-        <td>mgr inż. Piotr Januszewski</td>
+        <td>Piotr Januszewski</td>
     </tr>
 
 
@@ -73,7 +73,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 5 -->
     <tr>
         <td rowspan="1">28.11.2019</td>
-        <td>Open meeting with special guests invited by AI Bay</td>
+        <td>Open meeting with special guests</td>
         <td>AI Bay</td>
     </tr>
 
@@ -82,19 +82,19 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <tr>
         <td rowspan="2">05.12.2019</td>
         <td>#4: Deep dive into Deep Learning</td>
-        <td>mgr inż. Jan Cychnerski</td>
+        <td>Jan Cychnerski</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
-        <td>mgr inż. Jan Cychnerski</td>
+        <td>Jan Cychnerski</td>
     </tr>
 	
 	<!-- Spotkanie nr 7 -->
     <tr>
         <td rowspan="2">11.12.2019</td>
         <td>Explainable AI (XAI): research project in Seoul</td>
-        <td>mgr inż. Agnieszka Mikołajczyk</td>
+        <td>Agnieszka Mikołajczyk</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
@@ -106,12 +106,12 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <tr>
         <td rowspan="3">09.01.2020</td>
         <td>Amazon: Pronunciation assessment & GANs for TTS</td>
-        <td>mgr inż. Daniel Korzekwa</td>
+        <td>Daniel Korzekwa</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Amazon: Neural Text to Speech</td>
-        <td>mgr inż. Grzegorz Beringer</td>
+        <td>Grzegorz Beringer</td>
     </tr>
 	    <tr>
         <!-- Data jest połączona przez colspan! -->
