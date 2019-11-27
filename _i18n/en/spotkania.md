@@ -13,9 +13,9 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
 <table>
     <tr>
-        <th style="width:20%;">Date</th>
-        <th style="width:55%;">Subject</th>
-        <th style="width:30%;">Author</th>
+        <th style="width:18%;">Date</th>
+        <th style="width:58%;">Subject</th>
+        <th style="width:29%;">Author</th>
     </tr>
 
     <!-- Spotkanie nr 1 -->
