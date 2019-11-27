@@ -13,9 +13,9 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
 <table>
     <tr>
-        <th style="width:15%;">Date</th>
+        <th style="width:20%;">Date</th>
         <th style="width:55%;">Subject</th>
-        <th style="width:30%;">Author</th>
+        <th style="width:25%;">Author</th>
     </tr>
 
     <!-- Spotkanie nr 1 -->
@@ -121,7 +121,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
 	
 	<!-- Spotkanie nr 9 -->
     <tr>
-        <td rowspan="1">18/19.01.2020</td>
+        <td rowspan="1">18-19.01.2020</td>
         <td>AI Games Hackathon</td>
         <td>AI Games Team</td>
     </tr>

@@ -7,9 +7,9 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
 <table>
     <tr>
-        <th style="width:15%;">Data</th>
+        <th style="width:20%;">Data</th>
         <th style="width:55%;">Temat</th>
-        <th style="width:30%;">Autor</th>
+        <th style="width:25%;">Autor</th>
     </tr>
 
     <!-- Spotkanie nr 1 -->
@@ -115,7 +115,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 	
 	<!-- Spotkanie nr 9 -->
     <tr>
-        <td rowspan="1">18-19.01 <br> 2020</td>
+        <td rowspan="1">18-19.01.2020</td>
         <td>AI Games Hackathon</td>
         <td>Zespół AI Games</td>
     </tr>
