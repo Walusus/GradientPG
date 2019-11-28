@@ -86,8 +86,8 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 	
 	<!-- Spotkanie nr 7 -->
     <tr>
-        <td rowspan="2">11.12.2019</td>
-        <td>Explainable AI (XAI): projekt badawczy w Seulu</td>
+        <td rowspan="2">10.12.2019</td>
+        <td>Explainable AI (XAI): projekt badawczy w Korei Południowej</td>
         <td>Agnieszka Mikołajczyk</td>
     </tr>
     <tr>
