@@ -97,8 +97,33 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     </tr>
 	
 	<!-- Spotkanie nr 8 -->
-    <tr>
+	<tr>
         <td rowspan="3">09.01.2020</td>
+        <td>Wypłw augmentacji danych na jakość segmentacji</td>
+        <td>Dariusz Piotrowski</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Wstęp do projektów Gradientu</td>
+        <td>Zarząd Koła</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Wstęp do Hackathonu AI Games</td>
+        <td>Zespół AI Games</td>
+    </tr>
+    
+	
+	<!-- Spotkanie nr 9 -->
+    <tr>
+        <td rowspan="1">18-19.01.2020</td>
+        <td>AI Games Hackathon</td>
+        <td>Zespół AI Games</td>
+    </tr>
+	
+	<!-- Spotkanie nr 10 -->
+	<tr>
+        <td rowspan="2">23.01.2020</td>
         <td>Amazon: Pronunciation assessment & GANs for TTS</td>
         <td>Daniel Korzekwa</td>
     </tr>
@@ -106,18 +131,6 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
         <!-- Data jest połączona przez colspan! -->
         <td>Amazon: Neural Text to Speech</td>
         <td>Grzegorz Beringer</td>
-    </tr>
-	    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Wprowadzenie do AI Games</td>
-        <td>Zarząd Koła</td>
-    </tr>
-	
-	<!-- Spotkanie nr 9 -->
-    <tr>
-        <td rowspan="1">18-19.01.2020</td>
-        <td>AI Games Hackathon</td>
-        <td>Zespół AI Games</td>
     </tr>
 
 	<!-- Spotkanie nr 10 -->

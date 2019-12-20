@@ -103,21 +103,22 @@ This year meetings will be focused on empowering our skills by sharing progress 
     </tr>
 	
 	<!-- Spotkanie nr 8 -->
-    <tr>
+	<tr>
         <td rowspan="3">09.01.2020</td>
-        <td>Amazon: Pronunciation assessment & GANs for TTS</td>
-        <td>Daniel Korzekwa</td>
+        <td>Segmentation and augmentation of data</td>
+        <td>Dariusz Piotrowski</td>
     </tr>
-    <tr>
+	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Amazon: Neural Text to Speech</td>
-        <td>Grzegorz Beringer</td>
-    </tr>
-	    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Introduction to AI Games</td>
+        <td>Start of the projects!</td>
         <td>Gradient Board</td>
     </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Introduction to AI Games Hackathon</td>
+        <td>AI Games Team</td>
+    </tr>
+    
 	
 	<!-- Spotkanie nr 9 -->
     <tr>
@@ -126,9 +127,10 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td>AI Games Team</td>
     </tr>
 	
-		<!-- Spotkanie nr 10 -->
+
+	<!-- Spotkanie nr 10 -->
     <tr>
-        <td rowspan="1">23.01.2020</td>
+        <td rowspan="1">30.01.2020</td>
         <td>TBA</td>
         <td>TBA</td>
     </tr>
