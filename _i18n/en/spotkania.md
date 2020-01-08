@@ -129,6 +129,18 @@ This year meetings will be focused on empowering our skills by sharing progress 
 	
 
 	<!-- Spotkanie nr 10 -->
+	<tr>
+        <td rowspan="2">23.01.2020</td>
+        <td>Amazon: Pronunciation assessment & GANs for TTS</td>
+        <td>Daniel Korzekwa</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Amazon: Neural Text to Speech</td>
+        <td>Grzegorz Beringer</td>
+    </tr>
+
+	<!-- Spotkanie nr 10 -->
     <tr>
         <td rowspan="1">30.01.2020</td>
         <td>TBA</td>

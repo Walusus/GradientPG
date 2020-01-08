@@ -135,7 +135,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 
 	<!-- Spotkanie nr 10 -->
     <tr>
-        <td rowspan="1">23.01.2020</td>
+        <td rowspan="1">30.01.2020</td>
         <td>TBA</td>
         <td>TBA</td>
     </tr>
