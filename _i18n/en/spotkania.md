@@ -73,7 +73,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <!-- Spotkanie nr 5 -->
     <tr>
         <td rowspan="1">28.11.2019</td>
-        <td>Open meeting with special guests</td>
+        <td>Open meeting of Digital Innovation Hub</td>
         <td>AI Bay</td>
     </tr>
 
@@ -130,23 +130,31 @@ This year meetings will be focused on empowering our skills by sharing progress 
 
 	<!-- Spotkanie nr 10 -->
 	<tr>
-        <td rowspan="2">23.01.2020</td>
-        <td>Amazon: Pronunciation assessment & GANs for TTS</td>
-        <td>Daniel Korzekwa</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Amazon: Neural Text to Speech</td>
-        <td>Grzegorz Beringer</td>
+        <td rowspan="1">23.01.2020</td>
+        <td>Pronunciation assessment & Neural Text to Speech</td>
+        <td>Amazon Poland</td>
     </tr>
 
-	<!-- Spotkanie nr 10 -->
+	<!-- Spotkanie nr 11 -->
     <tr>
         <td rowspan="1">30.01.2020</td>
+        <td>Open meeting of Digital Innovation Hub</td>
+        <td>AI Bay</td>
+    </tr>
+	
+	<!-- Spotkanie nr 12 -->
+    <tr>
+        <td rowspan="1">27.02.2020</td>
+        <td>Open meeting of Digital Innovation Hub</td>
+        <td>AI Bay</td>
+    </tr>
+	
+	<!-- Spotkanie nr 13 -->
+    <tr>
+        <td rowspan="1">05.03.2020</td>
         <td>TBA</td>
         <td>TBA</td>
     </tr>
-
 
 
 </table>
