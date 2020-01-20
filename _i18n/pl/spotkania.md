@@ -67,7 +67,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <!-- Spotkanie nr 5 -->
     <tr>
         <td rowspan="1">28.11.2019</td>
-        <td>Spotkanie z prelegentami DIH</td>
+        <td>Spotkanie z prelegentami Digital Innovation Hub</td>
         <td>AI Bay</td>
     </tr>
 
@@ -131,14 +131,14 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 	<!-- Spotkanie nr 11 -->
     <tr>
         <td rowspan="1">30.01.2020</td>
-        <td>Spotkanie z prelegentami DIH</td>
+        <td>Spotkanie z prelegentami Digital Innovation Hub</td>
         <td>AI Bay</td>
     </tr>
 	
 	<!-- Spotkanie nr 12 -->
     <tr>
         <td rowspan="1">27.02.2020</td>
-        <td>Spotkanie z prelegentami DIH</td>
+        <td>Spotkanie z prelegentami Digital Innovation Hub</td>
         <td>AI Bay</td>
     </tr>
 	
