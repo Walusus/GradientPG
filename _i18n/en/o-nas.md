@@ -34,11 +34,11 @@ In order to join Gradient, please [email us](mailto:{{ site.email }}) (preferabl
 Before joining our community, we invite you to read the current [statute](/en/statute) (available only in Polish).
 
 ## Members of the Board
- - Piotr Januszewski (Chairman),
- - Jakub Powierza (Public Relations),
- - Dawid Paluchowski,
- - Grzegorz Beringer,
- - Mateusz Jabłoński.
+ - Bartłomiej Borzyszkowski (President),
+ - Daniel Mątwicki,
+ - Jan Pliszka,
+ - Hubert Skrzypczak,
+ - Marcin Świniarski.
 
 ## Supervisors
  - Adam Brzeski MSc,
