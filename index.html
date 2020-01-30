@@ -19,7 +19,9 @@ pagination:
 
 <div class="wrapper">
 <ul class="post-list">
+  {% for post in paginator.posts %}
   <li>
+	{% if post.categories == "Event" %}
     <h2>
       {% if post.categories contains "Projects" or post.categories contains "Projekty" %}
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{% translate project %} - {{ post.title }}</a>
