@@ -4,7 +4,7 @@ locale: en
 title:  "AI Games Hackathon"
 date:   2020-01-10 17:00:00
 author: Bartłomiej Borzyszkowski
-categories: Events
+categories: Event
 tags:	hackathon AIGames
 comments: true
 cover:  "/assets/posts/2020-01-10-hackathon/cover2.jpg"
