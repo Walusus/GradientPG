@@ -7,7 +7,7 @@ author: Bartłomiej Borzyszkowski
 categories: Events
 tags:	hackathon summary
 comments: true
-cover:  "/assets/posts/2020-01-10-hackathon/cover.jpg"
+cover:  "/assets/posts/2020-01-10-hackathon/cover2.jpg"
 thumbnail:  "/assets/posts/2020-01-10-hackathon/thumbnail.jpg"
 ---
 
