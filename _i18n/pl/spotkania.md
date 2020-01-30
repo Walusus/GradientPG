@@ -88,7 +88,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     <tr>
         <td rowspan="2">10.12.2019</td>
         <td>Explainable AI (XAI): projekt badawczy w Korei Południowej</td>
-        <td> [Agnieszka Mikołajczyk](https://amikolajczyk.netlify.com/) </td>
+        <td>Agnieszka Mikołajczyk</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
