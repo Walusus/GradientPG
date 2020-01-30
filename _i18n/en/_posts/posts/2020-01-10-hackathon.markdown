@@ -1,7 +1,7 @@
 ---
 layout: post
 locale: en
-title:  "AI Games - 18-19.01.2020"
+title:  "AI Games Hackathon"
 date:   2010-01-10 17:00:00
 author: Bartłomiej Borzyszkowski
 categories: Events
