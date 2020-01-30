@@ -94,7 +94,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     <tr>
         <td rowspan="2">10.12.2019</td>
         <td>Explainable AI (XAI): research project in South Korea</td>
-        <td>[Agnieszka Mikołajczyk](https://amikolajczyk.netlify.com/)</td>
+        <td> [Agnieszka Mikołajczyk](https://amikolajczyk.netlify.com/) </td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
