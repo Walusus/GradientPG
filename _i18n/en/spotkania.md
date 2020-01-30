@@ -9,7 +9,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
  for such case. If you would like to give a speech in English, don't hesitate to contact with us, we'll find some time
  for your presentation! :)
 
-# Schedule
+# Schedule 2019-2020
 
 <table>
     <tr>

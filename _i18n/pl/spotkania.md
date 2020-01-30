@@ -3,7 +3,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
  Dlatego też każde ze spotkań będzie podzielone na dwa godzinne sloty, podczas których każdy z nas będzie mógł
  zabrać głos i poprowadzić zajęcia. Planujemy również spotkania z przedstawicielami lokalnymi firm!
 
-# Harmonogram
+# Harmonogram 2019-2020
 
 <table>
     <tr>
