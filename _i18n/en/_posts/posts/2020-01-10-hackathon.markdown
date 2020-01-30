@@ -16,3 +16,6 @@ Let’s face it. Artificial Intelligence (AI) is changing the world. It’s chan
 During AI Games your team will have 24 hours to hack your own solution to one of 3 real world AI challenges! 
 
 Join and follow the [Hackathon](https://aigames.it/)!
+
+[aigames.it](https://aigames.it/)
+[Facebook AI Games](https://www.facebook.com/AIGamesHackathon)
