@@ -19,7 +19,7 @@ pagination:
 
 <div class="wrapper">
 <ul class="post-list">
-  {% if post.categories == "Event"}{% for post in paginator.posts %}
+  {% for post in paginator.posts %}
   <li>
     <h2>
       {% if post.categories contains "Projects" or post.categories contains "Projekty" %}
