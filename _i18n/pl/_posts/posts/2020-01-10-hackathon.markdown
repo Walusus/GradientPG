@@ -2,7 +2,7 @@
 layout: post
 locale: pl
 title:  "AI Games Hackathon"
-date:   2010-01-10 17:00:00
+date:   2020-01-10 17:00:00
 author: Bartłomiej Borzyszkowski
 categories: Wydarzenia
 tags:	hackathon podsumowanie
