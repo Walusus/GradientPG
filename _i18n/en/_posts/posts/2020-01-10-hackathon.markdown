@@ -8,7 +8,7 @@ categories: Events
 tags:	hackathon summary
 comments: true
 cover:  "/assets/posts/2020-01-10-hackathon/cover.jpg"
-thumbnail:  "/assets/posts/2020-01-10-hackathon/cover.jpg"
+thumbnail:  "/assets/posts/2020-01-10-hackathon/thumbnail.jpg"
 ---
 
 Let’s face it. Artificial Intelligence (AI) is changing the world. It’s changing the way we develop technologies, build businesses and educate ourselves. Gradient decided to start AI Games to eagerly face this challenge and help AI geeks from all around the world build their own visions of our future with AI.
