@@ -143,10 +143,20 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     </tr>
 	
 	<!-- Spotkanie nr 13 -->
-    <tr>
-        <td rowspan="1">05.03.2020</td>
-        <td>TBA</td>
-        <td>TBA</td>
+	<tr>
+        <td rowspan="3">05.03.2020</td>
+        <td>Przedstawienie projektów KASK</td>
+        <td>Opiekunowie koła</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Przedstawienie projektu na robota infoShare</td>
+        <td>SR SKALP / Voicelab.ai</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Analiza obrazów 3D + hands-on</td>
+        <td>Paweł Białas</td>
     </tr>
 
 </table>

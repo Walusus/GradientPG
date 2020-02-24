@@ -150,10 +150,20 @@ This year meetings will be focused on empowering our skills by sharing progress 
     </tr>
 	
 	<!-- Spotkanie nr 13 -->
-    <tr>
-        <td rowspan="1">05.03.2020</td>
-        <td>TBA</td>
-        <td>TBA</td>
+	<tr>
+        <td rowspan="3">05.03.2020</td>
+        <td>Introduction of projects at KASK</td>
+        <td>Gradient Mentors</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Introduction of project for infoShare</td>
+        <td>SR SKALP / Voicelab.ai</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Analysis of 3D images + hands-on</td>
+        <td>Paweł Białas</td>
     </tr>
 
 
