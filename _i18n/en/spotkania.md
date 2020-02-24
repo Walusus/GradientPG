@@ -165,6 +165,13 @@ This year meetings will be focused on empowering our skills by sharing progress 
         <td>Analysis of 3D images + hands-on</td>
         <td>Paweł Białas</td>
     </tr>
+	
+	<!-- Spotkanie nr 14 -->
+    <tr>
+        <td rowspan="1">12.03.2020</td>
+        <td>TBA</td>
+        <td>TBA</td>
+    </tr>
 
 
 </table>

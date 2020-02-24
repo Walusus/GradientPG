@@ -158,6 +158,13 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
         <td>Analiza obrazów 3D + hands-on</td>
         <td>Paweł Białas</td>
     </tr>
+	
+		<!-- Spotkanie nr 14 -->
+    <tr>
+        <td rowspan="1">12.03.2020</td>
+        <td>TBA</td>
+        <td>TBA</td>
+    </tr>
 
 </table>
 
