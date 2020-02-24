@@ -150,7 +150,7 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
     </tr>
 	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Przedstawienie projektu na robota infoShare</td>
+        <td>Przedstawienie projektu na infoShare</td>
         <td>SR SKALP / Voicelab.ai</td>
     </tr>
 	<tr>
