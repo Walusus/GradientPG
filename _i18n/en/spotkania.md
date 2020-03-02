@@ -192,14 +192,20 @@ This year meetings will be focused on empowering our skills by sharing progress 
 	
 	<!-- Spotkanie nr 16 -->
 	<tr>
-        <td rowspan="2">26.03.2020</td>
+        <td rowspan="3">26.03.2020</td>
+		<td>AI in multimedia systems</td>
+        <td>prof. Andrzej Czyżewski</td>
+
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
         <td>FOKA - Project presentations</td>
         <td>Gradient Members</td>
     </tr>
 	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>AI in multimedia systems</td>
-        <td>prof. Andrzej Czyżewski</td>
+        <td>Integration: Gradient Beers</td>
+        <td>Gradient Members</td>
     </tr>
 	
 	<!-- Spotkanie nr 17 -->

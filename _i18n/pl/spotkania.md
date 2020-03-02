@@ -185,14 +185,20 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 	
 	<!-- Spotkanie nr 16 -->
 	<tr>
-        <td rowspan="2">26.03.2020</td>
-        <td>FOKA - Prezentacje projektów</td>
-        <td>Członkowie Koła</td>
+        <td rowspan="3">26.03.2020</td>
+        <td>AI w systemach multimedialnych</td>
+        <td>prof. Andrzej Czyżewski</td>
+
+    </tr>
+	<tr>
+		<!-- Data jest połączona przez colspan! -->
+	    <td>FOKA - Prezentacje projektów</td>
+        <td>Członkowie Koła</td>       
     </tr>
 	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>AI w systemach multimedialnych</td>
-        <td>prof. Andrzej Czyżewski</td>
+        <td>Ingeracja: Piwo Zespołowe</td>
+        <td>Członkowie Koła</td>
     </tr>
 	
 	<!-- Spotkanie nr 17 -->
