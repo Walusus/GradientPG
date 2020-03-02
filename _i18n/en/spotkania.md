@@ -198,7 +198,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     </tr>
 	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>AI w systemach multimedialnych</td>
+        <td>AI in multimedia systems</td>
         <td>prof. Andrzej Czyżewski</td>
     </tr>
 	

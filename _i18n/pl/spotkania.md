@@ -159,9 +159,52 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
         <td>Paweł Białas</td>
     </tr>
 	
-		<!-- Spotkanie nr 14 -->
+	<!-- Spotkanie nr 14 -->
+	<tr>
+        <td rowspan="3">12.03.2020</td>
+        <td>Nakładanie maski na obrazy za pomocą sieci neuronowych</td>
+        <td>Łukasz Pawłowski</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Quantum Supremacy + Hands-on IBM Q</td>
+        <td>Bartłomiej Borzyszkowski</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Panel dyskusyjny</td>
+        <td>Zarząd Koła</td>
+    </tr>
+	
+	<!-- Spotkanie nr 15 -->
     <tr>
-        <td rowspan="1">12.03.2020</td>
+        <td rowspan="1">20.03.2020</td>
+        <td>Forum Organizacji i Kół Akademickich</td>
+        <td>Politechnika Gdańska</td>
+    </tr>
+	
+	<!-- Spotkanie nr 16 -->
+	<tr>
+        <td rowspan="2">26.03.2020</td>
+        <td>FOKA - Prezentacje projektów</td>
+        <td>Członkowie Koła</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>AI w systemach multimedialnych</td>
+        <td>prof. Andrzej Czyżewski</td>
+    </tr>
+	
+	<!-- Spotkanie nr 17 -->
+	<tr>
+        <td rowspan="1">28.03.2020</td>
+        <td>AI Challenge Hackathon: Gradient x Intel x PG</td>
+        <td>WETI PG</td>
+    </tr>
+	
+	<!-- Spotkanie nr 18 -->
+	<tr>
+        <td rowspan="1">02.04.2020</td>
         <td>TBA</td>
         <td>TBA</td>
     </tr>
