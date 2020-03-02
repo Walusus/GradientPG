@@ -167,8 +167,51 @@ This year meetings will be focused on empowering our skills by sharing progress 
     </tr>
 	
 	<!-- Spotkanie nr 14 -->
+	<tr>
+        <td rowspan="3">12.03.2020</td>
+        <td>How to process images with CNNs?</td>
+        <td>Łukasz Pawłowski</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Quantum Supremacy + Hands-on IBM Q</td>
+        <td>Bartłomiej Borzyszkowski</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Discussion panel</td>
+        <td>Gradient Board</td>
+    </tr>
+	
+	<!-- Spotkanie nr 15 -->
     <tr>
-        <td rowspan="1">12.03.2020</td>
+        <td rowspan="1">20.03.2020</td>
+        <td>FOKA - PG Open Day exhibition</td>
+        <td>Politechnika Gdańska</td>
+    </tr>
+	
+	<!-- Spotkanie nr 16 -->
+	<tr>
+        <td rowspan="2">26.03.2020</td>
+        <td>FOKA - Project presentations</td>
+        <td>Gradient Members</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>AI w systemach multimedialnych</td>
+        <td>prof. Andrzej Czyżewski</td>
+    </tr>
+	
+	<!-- Spotkanie nr 17 -->
+	<tr>
+        <td rowspan="1">28.03.2020</td>
+        <td>AI Challenge Hackathon: Gradient x Intel x PG</td>
+        <td>WETI PG</td>
+    </tr>
+	
+	<!-- Spotkanie nr 18 -->
+	<tr>
+        <td rowspan="1">02.04.2020</td>
         <td>TBA</td>
         <td>TBA</td>
     </tr>
