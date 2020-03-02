@@ -204,7 +204,7 @@ This year meetings will be focused on empowering our skills by sharing progress 
     </tr>
 	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Integration: Gradient Beers</td>
+        <td>Pub meeting: Gradient Beer</td>
         <td>Gradient Members</td>
     </tr>
 	
