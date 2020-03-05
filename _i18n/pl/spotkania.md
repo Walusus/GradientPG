@@ -204,8 +204,8 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 	<!-- Spotkanie nr 17 -->
 	<tr>
         <td rowspan="1">28.03.2020</td>
-        <td>AI Challenge Hackathon: Gradient x Intel x PG</td>
-        <td>WETI PG</td>
+        <td>TBA</td>
+        <td>TBA</td>
     </tr>
 	
 	<!-- Spotkanie nr 18 -->
