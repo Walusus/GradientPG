@@ -210,14 +210,19 @@ This year meetings will be focused on empowering our skills by sharing progress 
 	
 	<!-- Spotkanie nr 17 -->
 	<tr>
-        <td rowspan="1">28.03.2020</td>
-        <td>TBA</td>
-        <td>TBA</td>
+        <td rowspan="2">02.04.2020</td>
+        <td>Intro to GANs + hands-on</td>
+        <td>Grzegorz Opoka (Intel)</td>
+    </tr>
+	<tr>
+		<!-- Data jest połączona przez colspan! -->
+	    <td>Intro to GANs + hands-on</td>
+        <td>Maksymilian Bubula (Intel)</td>       
     </tr>
 	
 	<!-- Spotkanie nr 18 -->
 	<tr>
-        <td rowspan="1">02.04.2020</td>
+        <td rowspan="1">09.04.2020</td>
         <td>TBA</td>
         <td>TBA</td>
     </tr>
