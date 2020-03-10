@@ -203,13 +203,13 @@ W tym roku akademickim planujemy, aby spotkania były skierowane pod kątem rozw
 	<!-- Spotkanie nr 17 -->
 	<tr>
         <td rowspan="2">02.04.2020</td>
-        <td>Intro to GANs + hands-on</td>
-        <td>Grzegorz Opoka (Intel)</td>
+        <td>Intel: Intro to Generative Adversarial Networks</td>
+        <td>Grzegorz Opoka</td>
     </tr>
 	<tr>
 		<!-- Data jest połączona przez colspan! -->
-	    <td>Intro to GANs + hands-on</td>
-        <td>Maksymilian Bubula (Intel)</td>       
+	    <td>Intel: hands-on GANs</td>
+        <td>Maksymilian Bubula</td>       
     </tr>
 	
 	<!-- Spotkanie nr 18 -->
