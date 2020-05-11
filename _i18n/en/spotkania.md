@@ -9,313 +9,224 @@ This year meetings will be focused on empowering our skills by sharing progress 
  for such case. If you would like to give a speech in English, don't hesitate to contact with us, we'll find some time
  for your presentation! :)
 
-# Schedule
+# Schedule 2019-2020
 
 <table>
     <tr>
-        <th style="width:15%;">Date</th>
-        <th style="width:48%;">Subject</th>
-        <th style="width:23%;">Author</th>
-        <th style="width:14%;">More</th>
+        <th style="width:18%;">Date</th>
+        <th style="width:58%;">Subject</th>
+        <th style="width:29%;">Author</th>
     </tr>
 
     <!-- Spotkanie nr 1 -->
     <tr>
-        <td>25.10.2018</td>
-        <td>Kick-off meeting</td>
-        <td>Board Members</td>
-        <td><a href="/en/meetings/2018/11/05/spotkanie-inauguracyjne-podsumowanie.html">Summary</a></td>
+        <td>30.10.2019</td>
+        <td>Introduction meeting 2019/20</td>
+        <td>Gradient Board</td>
     </tr>
-
 
     <!-- Spotkanie nr 2 -->
     <tr>
-        <td rowspan="2">08.11.2018</td>
-        <td>Machine Learning and Supervised Learning basics</td>
-        <td>Jakub Powierza</td>
-        <td><a href="/en/meetings/2018/11/05/spotkanie.html">Slides</a></td>
+        <td rowspan="3">07.11.2019</td>
+        <td>#1: Machine Learning and Supervised Learning</td>
+        <td>Marcin Świniarski</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Hands-on</td>
-        <td>Jakub Powierza</td>
-        <td><a href="/en/meetings/2018/11/05/spotkanie.html">Resources</a></td>
+        <td>Hands-on Moneyball</td>
+        <td>Marcin Świniarski</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>School on Reinforcement Learning Intro</td>
+        <td>Piotr Januszewski</td>
     </tr>
 
 
     <!-- Spotkanie nr 3 -->
     <tr>
-        <td rowspan="2">15.11.2018</td>
-        <td>Computer Vision and Transfer Learning</td>
-        <td>Grzegorz Beringer</td>
-        <td><a href="/en/meetings/2018/11/14/spotkanie.html">Slides</a></td>
+        <td rowspan="2">14.11.2019</td>
+        <td>#2: Deep Neural Networks in details</td>
+        <td>Marcin Świniarski</td>
     </tr>
-    <tr>
+	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Hands-on</td>
-        <td>Grzegorz Beringer</td>
-        <td><a href="/en/meetings/2018/11/14/spotkanie.html">Resources</a></td>
+        <td>Hands-on Banking Datasets</td>
+        <td>Marcin Świniarski</td>
     </tr>
+
 
 
     <!-- Spotkanie nr 4 -->
     <tr>
-        <td rowspan="2">22.11.2018</td>
-        <td>Introduction to Recurrent Neural Networks</td>
-        <td>mgr Karol Draszawka</td>
-        <td>-</td>
+        <td rowspan="2">21.11.2019</td>
+        <td>#3: Convolutional Neural Networks</td>
+        <td>Hubert Skrzypczak</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Hands-on</td>
-        <td>mgr Karol Draszawka</td>
-        <td>-</td>
+        <td>Hubert Skrzypczak</td>
     </tr>
 
 
     <!-- Spotkanie nr 5 -->
     <tr>
-        <td rowspan="2">29.11.2018</td>
-        <td>Deep Reinforcement Learning through Policy Iteration and AlphaZero</td>
-        <td>Piotr Januszewski</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>Hands-on</td>
-        <td>Piotr Januszewski</td>
-        <td>-</td>
+        <td rowspan="1">28.11.2019</td>
+        <td>Open meeting of Digital Innovation Hub</td>
+        <td>AI Bay</td>
     </tr>
 
 
     <!-- Spotkanie nr 6 -->
     <tr>
-        <td rowspan="2">06.12.2018</td>
-        <td>Intorduction to Kaggle and "Boston Housing"</td>
-        <td>Grzegorz Beringer & Piotr Januszewski</td>
-        <td>-</td>
+        <td rowspan="2">05.12.2019</td>
+        <td>#4: Deep dive into Deep Learning</td>
+        <td>Jan Cychnerski</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Integration & Networking</td>
-        <td>Pizza PRL</td>
-        <td>-</td>
+        <td>Hands-on</td>
+        <td>Jan Cychnerski</td>
     </tr>
-
-
-    <!-- Spotkanie nr 7 -->
+	
+	<!-- Spotkanie nr 7 -->
     <tr>
-        <td rowspan="3">13.12.2018</td>
-        <td>Introduction</td>
-        <td>Supervisors</td>
-        <td>-</td>
+        <td rowspan="2">10.12.2019</td>
+        <td>Explainable AI (XAI): research project in South Korea</td>
+        <td>Agnieszka Mikołajczyk</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Autonomous Robot Project</td>
-        <td>Bartek Borzyszkowski</td>
-        <td>-</td>
+        <td>AI at CERN Openlab: Neuromorphic Computing in High Energy Physics</td>
+        <td>Bartłomiej Borzyszkowski</td>
     </tr>
-    <tr>
+	
+	<!-- Spotkanie nr 8 -->
+	<tr>
+        <td rowspan="3">09.01.2020</td>
+        <td>Segmentation and augmentation of data</td>
+        <td>Dariusz Piotrowski</td>
+    </tr>
+	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Raspberry PI + Intel Movidius Neural Compute Stick</td>
-        <td>Piotr Januszewski</td>
-        <td>-</td>
+        <td>Start of the projects!</td>
+        <td>Gradient Board</td>
     </tr>
-
-
-    <!-- Spotkanie nr 8 -->
-    <tr>
-        <td rowspan="2">10.01.2019</td>
-        <td>Presentation about custom framework for training neural networks</td>
-        <td>Hubert Skrzypczak</td>
-        <td>-</td>
-    </tr>
-    <tr>
+	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Brainstorming about our projects</td>
-        <td>Piotr Januszewski</td>
-        <td>-</td>
+        <td>Introduction to AI Games Hackathon</td>
+        <td>AI Games Team</td>
+    </tr>
+    
+	
+	<!-- Spotkanie nr 9 -->
+    <tr>
+        <td rowspan="1">18-19.01.2020</td>
+        <td>AI Games Hackathon</td>
+        <td>AI Games Team</td>
+    </tr>
+	
+
+	<!-- Spotkanie nr 10 -->
+	<tr>
+        <td rowspan="1">23.01.2020</td>
+        <td>Pronunciation assessment & Neural Text to Speech</td>
+        <td>Amazon Poland</td>
     </tr>
 
-
-    <!-- Spotkanie nr 9 -->
+	<!-- Spotkanie nr 11 -->
     <tr>
-        <td>17.01.2019</td>
-        <td>AI Bay Inauguration</td>
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="1">30.01.2020</td>
+        <td>Open meeting of Digital Innovation Hub</td>
+        <td>AI Bay</td>
     </tr>
-
-    <!-- Spotkanie nr 10 -->
+	
+	<!-- Spotkanie nr 12 -->
     <tr>
-        <td rowspan="3">24.01.2019</td>
-        <td>Semantic Segmentation</td>
+        <td rowspan="1">27.02.2020</td>
+        <td>Open meeting of Digital Innovation Hub</td>
+        <td>AI Bay</td>
+    </tr>
+	
+	<!-- Spotkanie nr 13 -->
+	<tr>
+        <td rowspan="3">05.03.2020</td>
+        <td>Introduction of projects at KASK</td>
+        <td>Gradient Mentors</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Introduction of project for infoShare</td>
+        <td>SR SKALP / Voicelab.ai</td>
+    </tr>
+	<tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Analysis of 3D images + hands-on</td>
         <td>Paweł Białas</td>
-        <td>-</td>
     </tr>
-    <tr>
+	
+	<!-- Spotkanie nr 14 -->
+	<tr>
+        <td rowspan="3">12.03.2020</td>
+        <td>How to process images with CNNs?</td>
+        <td>Łukasz Pawłowski</td>
+    </tr>
+	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Group Projects and Diploma Thesis Projects</td>
-        <td>Sebastian Cygiert</td>
-        <td>-</td>
+        <td>Quantum Supremacy + Hands-on IBM Q</td>
+        <td>Bartłomiej Borzyszkowski</td>
     </tr>
-    <tr>
+	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Best solutions for "Boston Housing"</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Discussion panel</td>
+        <td>Gradient Board</td>
     </tr>
-
-
-    <!-- Spotkanie nr 11 -->
+	
+	<!-- Spotkanie nr 15 -->
     <tr>
-        <td>28.02.2019</td>
-        <td>AI Bay Meeting</td>
-        <td>-</td>
-        <td>-</td>
+        <td rowspan="1">20.03.2020</td>
+        <td>FOKA - PG Open Day exhibition</td>
+        <td>Politechnika Gdańska</td>
     </tr>
+	
+	<!-- Spotkanie nr 16 -->
+	<tr>
+        <td rowspan="3">26.03.2020</td>
+		<td>AI in multimedia systems</td>
+        <td>prof. Andrzej Czyżewski</td>
 
-
-    <!-- Spotkanie nr 12 -->
-    <tr>
-        <td>07.03.2019</td>
-        <td>Scientific career in Poland</td>
-        <td>prof. Paweł Czarnul</td>
-        <td>-</td>
     </tr>
-
-
-    <!-- Spotkanie nr 13 -->
-    <tr>
-        <td rowspan="2">14.03.2019</td>
-        <td>Introduction to NLP</td>
-        <td>Wojciech Janowski</td>
-        <td>-</td>
-    </tr>
-    <tr>
+	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Deploy ML models to the Web, REST API + Keras</td>
-        <td>Kuba Karczewski</td>
-        <td>-</td>
+        <td>FOKA - Project presentations</td>
+        <td>Gradient Members</td>
     </tr>
-
-
-    <!-- Spotkanie nr 14 -->
-    <tr>
-        <td>21.03.2018</td>
-        <td>FOKA</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-
-
-    <!-- Spotkanie nr 15 -->
-    <tr>
-        <td>28.03.2018</td>
-        <td>Projects prepared for FOKA</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-
-
-    <!-- Spotkanie nr 16 -->
-    <tr>
-        <td rowspan="2">04.04.2019</td>
-        <td>Image Captioning</td>
-        <td>Wojciech Janowski</td>
-        <td>-</td>
-    </tr>
-    <tr>
+	<tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>Processing crowdsourcing data using Unsupervised Learning methods</td>
-        <td>Jakub Powierza</td>
-        <td>-</td>
+        <td>Pub meeting: Gradient Beer</td>
+        <td>Gradient Members</td>
+    </tr>
+	
+	<!-- Spotkanie nr 17 -->
+	<tr>
+        <td rowspan="2">02.04.2020</td>
+        <td>Intel: Intro to Generative Adversarial Networks</td>
+        <td>Grzegorz Opoka</td>
+    </tr>
+	<tr>
+		<!-- Data jest połączona przez colspan! -->
+	    <td>Intel: hands-on GANs</td>
+        <td>Maksymilian Bubula</td>       
+    </tr>
+	
+	<!-- Spotkanie nr 18 -->
+	<tr>
+        <td rowspan="1">09.04.2020</td>
+        <td>TBA</td>
+        <td>TBA</td>
     </tr>
 
-
-    <!-- Spotkanie nr 17 -->
-    <tr>
-        <td rowspan="2">1.04.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-
-
-    <!-- Spotkanie nr 18 -->
-    <tr>
-        <td rowspan="2">09.05.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-
-
-    <!-- Spotkanie nr 19 -->
-    <tr>
-        <td rowspan="2">16.05.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-
-
-    <!-- Spotkanie nr 20 -->
-    <tr>
-        <td rowspan="2">23.05.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-
-
-    <!-- Spotkanie nr 21 -->
-    <tr>
-        <td rowspan="2">30.05.2019</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-
-
-    <!-- Spotkanie nr 22 -->
-    <tr>
-        <td>06.06.2019</td>
-        <td>Summary of our work and accomplishments</td>
-        <td>Board Members</td>
-        <td>-</td>
-    </tr>
 
 </table>
 

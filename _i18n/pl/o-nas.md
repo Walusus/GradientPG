@@ -20,11 +20,11 @@ W celu dołączenia do naszego koła naukowego prosimy o [kontakt mailowy](mailt
 Przed dołączeniem do naszej społeczności zapraszamy do zapoznania się z aktualnym [statutem](/statut).
 
 ## Członkowie Zarządu
- - Piotr Januszewski (Prezes),
- - Jakub Powierza (Public Relations),
- - Dawid Paluchowski,
- - Grzegorz Beringer,
- - Mateusz Jabłoński.
+ - Bartłomiej Borzyszkowski (Przewodniczący Koła),
+ - Daniel Mątwicki,
+ - Jan Pliszka,
+ - Hubert Skrzypczak,
+ - Marcin Świniarski.
 
 ## Opiekunowie Koła
  - mgr inż. Adam Brzeski,
