@@ -214,5 +214,5 @@ Do internacjonalizacji wykorzystaliśmy plugin "[jekyll-multiple-languages-plugi
 5. Niedostosowanie się do powyższych zasad może skutkować odebraniem możliwości kontrybucji.
 
 ## Administratorzy
-- [Jakub Powierza](mailto:jakub.powierza@icloud.com)
-- [Dawid Paluchowski](mailto:paluchowskid@gmail.com)
+- [Bartłomiej Borzyszkowski](mailto:borzyszkowski.ba@gmail.com)
+- [Daniel Mątwicki](mailto:danielmatwicki@gmail.com)
