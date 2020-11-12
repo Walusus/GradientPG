@@ -56,12 +56,12 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
     <!-- Spotkanie nr 6 -->
     <tr>
         <td rowspan="2">10.12.2020</td>
-        <td>AI at CERN: akceleracja inferencji z oneAPI</td>
+        <td>AI w CERN: akceleracja inferencji z oneAPI</td>
         <td>Marcin Świniarski</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
-        <td>AI at CERN: detekcja anomalii w przebiegach czasowych </td>
+        <td>AI w CERN: detekcja anomalii w przebiegach czasowych</td>
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
 	
