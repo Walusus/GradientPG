@@ -23,7 +23,7 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
 
     <!-- Spotkanie nr 2 -->
     <tr>
-        <td rowspan="3">12.11.2020</td>
+        <td rowspan="1">12.11.2020</td>
         <td>Przedstawienie laboratorium DIH4.AI</td>
         <td>Digital Innovation Hub</td>
     </tr>
@@ -31,7 +31,7 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
 
     <!-- Spotkanie nr 3 -->
     <tr>
-        <td rowspan="2">19.11.2020</td>
+        <td rowspan="1">19.11.2020</td>
         <td>Wprowadzenie do uczenia głębokiego</td>
         <td>Bazyli Polednia</td>
     </tr>
@@ -39,7 +39,7 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
 
     <!-- Spotkanie nr 4 -->
     <tr>
-        <td rowspan="2">26.11.2020</td>
+        <td rowspan="1">26.11.2020</td>
         <td>AI w systemach multimedialnych</td>
         <td>prof. Andrzej Czyżewski</td>
     </tr>
@@ -67,7 +67,7 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
 	
 	<!-- Spotkanie nr 7 -->
     <tr>
-        <td rowspan="2">17.12.2020</td>
+        <td rowspan="1">17.12.2020</td>
         <td>Przedświąteczny live coding session</td>
         <td>Gradient Board</td>
     </tr>
