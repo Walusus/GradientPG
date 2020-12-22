@@ -76,6 +76,20 @@ We also plan to invite representatives of local companies!
         <td>Christmas live coding session</td>
         <td>Gradient Board</td>
     </tr>
+	
+	<!-- Spotkanie nr 8 -->
+    <tr>
+        <td rowspan="1">14.01.2021</td>
+        <td>Gradient Elections</td>
+        <td>Gradient Board</td>
+    </tr>
+	
+	<!-- Spotkanie nr 9 -->
+    <tr>
+        <td rowspan="1">21.01.2021</td>
+        <td>Start of team projects</td>
+        <td>Gradient Board</td>
+    </tr>
 
 	
 
