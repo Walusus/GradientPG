@@ -94,7 +94,7 @@ We also plan to invite representatives of local companies!
 	<!-- Spotkanie nr 10 -->
     <tr>
         <td rowspan="2">04.03.2021</td>
-        <td>Presentation of research and AI projects</td>
+        <td>Presentation of research and AI student projects</td>
         <td>Sebastian Cygert</td>
     </tr>
     <tr>

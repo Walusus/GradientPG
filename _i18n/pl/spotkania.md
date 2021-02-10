@@ -89,13 +89,13 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
 	<!-- Spotkanie nr 10 -->
     <tr>
         <td rowspan="2">04.03.2021</td>
-        <td>Prezentacja badań i projektów z AI</td>
+        <td>Prezentacja badań i projektów studenckich z AI</td>
         <td>Sebastian Cygert</td>
     </tr>
     <tr>
         <!-- Data jest połączona przez colspan! -->
         <td>Rozwój osobisty i naukowy w kierunku AI</td>
-        <td>P. Januszewski, B. Borzyszkowski</td>
+        <td>Piotr Januszewski, Bartłomiej Borzyszkowski</td>
     </tr>
 
 	
