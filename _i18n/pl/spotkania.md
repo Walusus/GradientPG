@@ -81,9 +81,21 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
 	
 	<!-- Spotkanie nr 9 -->
     <tr>
-        <td rowspan="1">21.01.2021</td>
+        <td rowspan="1">25.02.2021</td>
         <td>Rozpoczęcie projektów zespołowych</td>
         <td>Gradient Board</td>
+    </tr>
+	
+	<!-- Spotkanie nr 10 -->
+    <tr>
+        <td rowspan="2">04.03.2021</td>
+        <td>Prezentacja badań i projektów z AI</td>
+        <td>Sebastian Cygert</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Rozwój osobisty i naukowy w kierunku AI</td>
+        <td>P. Januszewski, B. Borzyszkowski</td>
     </tr>
 
 	
