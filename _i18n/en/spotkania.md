@@ -86,9 +86,21 @@ We also plan to invite representatives of local companies!
 	
 	<!-- Spotkanie nr 9 -->
     <tr>
-        <td rowspan="1">21.01.2021</td>
+        <td rowspan="1">25.02.2021</td>
         <td>Start of team projects</td>
         <td>Gradient Board</td>
+    </tr>
+	
+	<!-- Spotkanie nr 10 -->
+    <tr>
+        <td rowspan="2">04.03.2021</td>
+        <td>Presentation of research and AI projects</td>
+        <td>Sebastian Cygert</td>
+    </tr>
+    <tr>
+        <!-- Data jest połączona przez colspan! -->
+        <td>Personal and scintific development towards AI</td>
+        <td>Piotr Januszewski, Bartłomiej Borzyszkowski</td>
     </tr>
 
 	
