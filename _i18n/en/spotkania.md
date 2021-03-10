@@ -93,17 +93,17 @@ We also plan to invite representatives of local companies!
 	
 	<!-- Spotkanie nr 10 -->
     <tr>
-        <td rowspan="2">04.03.2021</td>
-        <td>Presentation of research and AI student projects</td>
-        <td>Sebastian Cygert</td>
-    </tr>
-    <tr>
-        <!-- Data jest połączona przez colspan! -->
+        <td rowspan="1">04.03.2021</td>
         <td>Personal and scintific development towards AI</td>
-        <td>Piotr Januszewski, Bartłomiej Borzyszkowski</td>
+        <td>Piotr Januszewski</td>
     </tr>
 
-	
+	<!-- Spotkanie nr 11 -->
+    <tr>
+        <td rowspan="1">11.03.2021</td>
+        <td>Presentation of research and AI student projects</td>
+        <td>Sebastian Cygert, Piotr Krzywicki, Oskar Wysocki</td>
+    </tr>
 
 </table>
 
