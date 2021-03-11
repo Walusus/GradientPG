@@ -7,7 +7,7 @@ RUN apt-get install -y make gcc g++ ruby ruby-dev nodejs
 RUN apt-get install libffi-dev
 
 COPY Gemfile /gradient/Gemfile
-COPY Gemfile.lock /gradient/Gemfile.lock
+# COPY Gemfile.lock /gradient/Gemfile.lock
 
 RUN gem install bundler
 RUN bundle install
