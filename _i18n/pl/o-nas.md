@@ -20,11 +20,11 @@ W celu dołączenia do naszego koła naukowego prosimy o [kontakt mailowy](mailt
 Przed dołączeniem do naszej społeczności zapraszamy do zapoznania się z aktualnym [statutem](/statut).
 
 ## Członkowie Zarządu
- - Bartłomiej Borzyszkowski (Przewodniczący Koła),
- - Daniel Mątwicki,
- - Jan Pliszka,
- - Hubert Skrzypczak,
- - Marcin Świniarski.
+ - Marcin Walkowski (Przewodniczący Koła),
+ - Jakub Dębski,
+ - Franciszek Górski,
+ - Dawid Krefta,
+ - Bazyli Polednia.
 
 ## Opiekunowie Koła
  - mgr inż. Adam Brzeski,

@@ -34,11 +34,11 @@ In order to join Gradient, please [email us](mailto:{{ site.email }}) (preferabl
 Before joining our community, we invite you to read the current [statute](/en/statute) (available only in Polish).
 
 ## Members of the Board
- - Bartłomiej Borzyszkowski (President),
- - Daniel Mątwicki,
- - Jan Pliszka,
- - Hubert Skrzypczak,
- - Marcin Świniarski.
+ - Marcin Walkowski (President),
+ - Jakub Dębski,
+ - Franciszek Górski,
+ - Dawid Krefta,
+ - Bazyli Polednia.
 
 ## Supervisors
  - Adam Brzeski MSc,
