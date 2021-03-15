@@ -100,5 +100,12 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
         <td>Sebastian Cygert, Piotr Krzywicki, Oskar Wysocki</td>
     </tr>
 
+    <!-- Spotkanie nr 12 -->
+    <tr>
+        <td rowspan="1">18.03.2021</td>
+        <td>Rozwój osobisty i naukowy w kierunku AI</td>
+        <td>Bartłomiej Borzyszkowski</td>
+    </tr>
+
 </table>
 

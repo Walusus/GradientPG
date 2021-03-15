@@ -105,5 +105,12 @@ We also plan to invite representatives of local companies!
         <td>Sebastian Cygert, Piotr Krzywicki, Oskar Wysocki</td>
     </tr>
 
+    <!-- Spotkanie nr 12 -->
+    <tr>
+        <td rowspan="1">18.03.2021</td>
+        <td>Personal and scintific development towards AI</td>
+        <td>Bartłomiej Borzyszkowski</td>
+    </tr>
+
 </table>
 
