@@ -107,5 +107,12 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
 
+    <!-- Spotkanie nr 13 -->
+    <tr>
+        <td rowspan="1">08.04.2021</td>
+        <td>Algorytmy wykrywania obiektów</td>
+        <td>dr Karol Majek</td>
+    </tr>
+
 </table>
 

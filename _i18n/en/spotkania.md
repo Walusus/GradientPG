@@ -112,5 +112,12 @@ We also plan to invite representatives of local companies!
         <td>Bartłomiej Borzyszkowski</td>
     </tr>
 
+    <!-- Spotkanie nr 13 -->
+    <tr>
+        <td rowspan="1">08.04.2021</td>
+        <td>Object detection algorithms</td>
+        <td>Karol Majek, PhD</td>
+    </tr>
+
 </table>
 
