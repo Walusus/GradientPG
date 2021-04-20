@@ -119,5 +119,12 @@ We also plan to invite representatives of local companies!
         <td>Karol Majek, PhD</td>
     </tr>
 
+    <!-- Spotkanie nr 14 -->
+    <tr>
+        <td rowspan="1">22.04.2021</td>
+        <td>Introduction to Transformers</td>
+        <td>Marcin Walkowski</td>
+    </tr>
+
 </table>
 

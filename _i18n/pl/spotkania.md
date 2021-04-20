@@ -114,5 +114,12 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
         <td>dr Karol Majek</td>
     </tr>
 
+    <!-- Spotkanie nr 14 -->
+    <tr>
+        <td rowspan="1">22.04.2021</td>
+        <td>Wporwadzenie do architektury Transformer</td>
+        <td>Marcin</td>
+    </tr>
+
 </table>
 
