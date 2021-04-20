@@ -118,7 +118,7 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
     <tr>
         <td rowspan="1">22.04.2021</td>
         <td>Wporwadzenie do architektury Transformer</td>
-        <td>Marcin</td>
+        <td>Marcin Walkowski</td>
     </tr>
 
 </table>
