@@ -121,5 +121,12 @@ Planujemy również spotkania z przedstawicielami lokalnymi firm!
         <td>Marcin Walkowski</td>
     </tr>
 
+    <!-- Spotkanie nr 15 -->
+    <tr>
+        <td rowspan="1">20.05.2021</td>
+        <td>Komputery kwantowe</td>
+        <td>Jakub Dębski, Bazyli Polednia</td>
+    </tr>
+
 </table>
 
